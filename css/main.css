@@ -3,9 +3,89 @@
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: aliceblue;
-    color: white;
+    color: rgb(0, 0, 0);
     text-align: center;
     padding: 10px;
     font-size: 0.5rem;
+    background-color:rgb(189, 167, 232);
+}
+
+.center {
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -45px;
+}
+
+.title{
+    background-color:rgb(189, 167, 232);
+}
+
+.blue{
+    background-color:rgb(128, 202, 255);
+}
+
+.orange{
+    background-color:rgb(225, 187, 124);
+}
+
+.red{
+    background-color: rgb(236, 109, 109);
+}
+
+.yellow{
+    background-color: rgb(255, 245, 109);
+}
+
+h2{
+    text-align: center;
+    float: center;
+    font-size: 50px;
+    font-family: Rockwell;
+    font-weight:bold;
+}
+
+h3{
+    text-align:center;
+    float: center;
+    font-size: 20px;
+    font-family: Helvetica;
+    width: 600px;
+}
+
+.logo-image{
+    height:50px;
+    width:50px;
+}
+
+p{
+    text-align:center;
+    font-size: 15px;
+    font-family: Helvetica;
+    width: 1000px;
+}
+
+.kantorealmap{
+    float:left;
+    height:350px;
+    width: 600px;
+}
+
+.kantogamemap{
+    float:right;
+    height:350px;
+    width: 600px;
+}
+
+.realkantocap{
+    float:left;
+}
+
+.gamekantocap{
+    float:right;
+}
+
+.image{
+    width:1000px;
+
 }
