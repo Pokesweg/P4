@@ -89,3 +89,15 @@ p{
     width:1000px;
 
 }
+
+.galarrealmap{
+    float:left;
+    height:900px;
+    width: 600px;
+}
+
+.galargamemap{
+    float:right;
+    height:900px;
+    width: 600px;
+}
